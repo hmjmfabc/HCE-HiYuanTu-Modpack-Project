@@ -1,0 +1,21 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+defaultMultiworldId:mw15,1,15
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:minecraft$overworld:minecraft$overworld
+dimensionType:minecraft$the_nether:minecraft$the_nether
+dimensionType:bracken$sanctum:bracken$sanctum
+dimensionType:bracken$the_faewild:bracken$the_faewild
+dimensionType:bracken$void:bracken$void
+dimensionType:bracken$the_underdark:bracken$the_underdark
+dimensionType:bracken$glacium:bracken$glacium
+//server waypoints
