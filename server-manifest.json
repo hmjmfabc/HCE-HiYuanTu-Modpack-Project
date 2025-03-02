@@ -1,0 +1,935 @@
+{
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.21.1"
+    },
+    {
+      "id": "fabric",
+      "version": "0.16.10"
+    }
+  ],
+  "author": "Hmjmfabc",
+  "description": "非常好3.0.0版本，带给大家！",
+  "fileApi": "https://raw.githubusercontent.com/hmjmfabc/HCE-HiYuanTu-Modpack-Project/refs/heads/master_1",
+  "files": [
+    {
+      "hash": "e7982fab5b039ad0024094b6090f21570acb3ccb",
+      "path": "fclversion.cfg"
+    },
+    {
+      "hash": "9b638ac1cde8113f17e6632ca34c36863a5dbbf4",
+      "path": "mods/AOW-1.21.1-1.0.1.jar"
+    },
+    {
+      "hash": "e71346a43c563e5784580dd096338acfb45f49d4",
+      "path": "mods/architectury-13.0.8-fabric.jar"
+    },
+    {
+      "hash": "1627e303e79648f36624e0de6f7370ad79a85cca",
+      "path": "mods/carpet-permissions-1.0-SNAPSHOT.jar"
+    },
+    {
+      "hash": "79196a124dbc3e52e06767bbd624ebb12573b9a8",
+      "path": "mods/Jade-1.21.1-Fabric-15.9.2.jar"
+    },
+    {
+      "hash": "899e724cb94511c4aaff651c80cf71bfb527ce5a",
+      "path": "mods/elytraslot-fabric-9.0.1+1.21.1.jar"
+    },
+    {
+      "hash": "41594bd81f1e60e364f76b2e2bfca10cfdcf91bd",
+      "path": "mods/fabric-api-0.115.0+1.21.1.jar"
+    },
+    {
+      "hash": "95b9071e1e6f9cdf290895292f4d3f08da2356c9",
+      "path": "mods/chat_heads-0.13.12-fabric-1.21.jar"
+    },
+    {
+      "hash": "f54756f938c7c273713b9f97d4a987eec551e892",
+      "path": "mods/trinkets-3.10.0.jar"
+    },
+    {
+      "hash": "789cabd9b1fed079af87f675d1d6c1c95b603e19",
+      "path": "mods/NoChatReports-FABRIC-1.21.1-v2.9.1.jar"
+    },
+    {
+      "hash": "3629e2af6ae540277b3fd40da4b162a3b35da5e4",
+      "path": "mods/minopp-1.1.0+1.21.1+fabric.jar"
+    },
+    {
+      "hash": "5368c9a12f181eeeae124b70395691780e5cb657",
+      "path": "mods/LuckPerms-Fabric-5.4.140.jar"
+    },
+    {
+      "hash": "a3bb744c936b85fc70bcae4489ba29c50b812454",
+      "path": "mods/infwithmend-1.1.0.jar"
+    },
+    {
+      "hash": "cdc6feccde6aae9d66196c3b6a7ef5046394d3ec",
+      "path": "mods/ftb-ultimine-fabric-2101.1.1.jar"
+    },
+    {
+      "hash": "91c7a7bb2dac4ea03ded940c0d3d3c76cbae8aa2",
+      "path": "mods/ftb-library-fabric-2101.1.8.jar"
+    },
+    {
+      "hash": "2cf45a4f03bf10954ce4a4e8f3e912e8be4547fe",
+      "path": "mods/ftb-essentials-fabric-2101.1.4.jar"
+    },
+    {
+      "hash": "54f2907d83e67283d165336f26e5219d4bd36037",
+      "path": "mods/fabric-carpet-1.21-1.4.147+v240613.jar"
+    },
+    {
+      "hash": "116f548c1cd202c2f0f1c9561fe44083e7795e6b",
+      "path": "mods/Gamma-Utils-2.1.2-mc1.21.1.jar"
+    },
+    {
+      "hash": "5d82342a2df53fd6df712bfdd583a811572918a4",
+      "path": "mods/cloth-config-15.0.140-fabric.jar"
+    },
+    {
+      "hash": "416bca48280bbbb824e595d12fc694cc7488cfc4",
+      "path": "mods/gpumemleakfix-fabric-1.21-1.8.jar"
+    },
+    {
+      "hash": "68469cfbcb1b7fcdb0d11c8b984a657adfac5684",
+      "path": "mods/sodium-fabric-0.6.5+mc1.21.1.jar"
+    },
+    {
+      "hash": "9f2340085b953de3155d08f3f168af114cd101dd",
+      "path": "mods/Xaeros_Minimap_25.0.0_Fabric_1.21.jar"
+    },
+    {
+      "hash": "aae70e2976cf792b586c235496a6524a6b80b86a",
+      "path": "mods/RuOK-1.21.1-fabric-1.7.0.jar"
+    },
+    {
+      "hash": "1a2c610b74a5e3ab15404e4aa328bffdaac0e3a5",
+      "path": "mods/sodiumextras-fabric-1.0.7-1.21.1.jar"
+    },
+    {
+      "hash": "dc0c17f98fe518b75aa6ba4b4e57957e1d770073",
+      "path": "mods/jei-1.21.1-fabric-19.21.0.247.jar"
+    },
+    {
+      "hash": "ca8c29ad2481ab5fe81095181541d183fa7faf19",
+      "path": "mods/sodiumoptionsapi-fabric-1.0.10-1.21.1.jar"
+    },
+    {
+      "hash": "18afe83ff0ae087387c5f72ce5cf376c3f511b3a",
+      "path": "mods/DungeonsArise-1.21.x-2.1.60-fabric-release.jar"
+    },
+    {
+      "hash": "4cc75d707ec4d93be43874a7d89e07eb18b2112f",
+      "path": "mods/malilib-fabric-1.21-0.21.6.jar"
+    },
+    {
+      "hash": "97452cfadfde1f8f8c67838643019eabafa58fbb",
+      "path": "mods/appleskin-fabric-mc1.21-3.0.6.jar"
+    },
+    {
+      "hash": "11bff7127c2d01a97c931cda6012c8d2c3e1f39f",
+      "path": "mods/sodiumdynamiclights-fabric-1.0.10-1.21.1.jar"
+    },
+    {
+      "hash": "881ff81ff2c6bee2fa6e068351846942c7becb89",
+      "path": "mods/litematica-fabric-1.21-0.19.54.jar"
+    },
+    {
+      "hash": "a3eefce7079418f6cbe6d2764ed1f19849ae8cef",
+      "path": "mods/lithium-fabric-0.14.7+mc1.21.1.jar"
+    },
+    {
+      "hash": "b39bcea5b7c45ea07290ff5c69b4d801aa408f98",
+      "path": "mods/DungeonsAriseSevenSeas-1.21.x-1.0.3-fabric.jar"
+    },
+    {
+      "hash": "48ee764932d0c8ec81a2223dbe333886938e512c",
+      "path": "mods/ferritecore-7.0.2-hotfix-fabric.jar"
+    },
+    {
+      "hash": "73e792eb5f120787becda4b87b6ff18b26caea50",
+      "path": "mods/krypton-0.2.8.jar"
+    },
+    {
+      "hash": "6213120772192040a0aeb5c7cfe330c068605b1f",
+      "path": "mods/modmenu-11.0.3.jar"
+    },
+    {
+      "hash": "c72f07a8f139f0420cbce29bd9eb29fb24db427f",
+      "path": "mods/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar"
+    },
+    {
+      "hash": "292dd61803e8e7c0f18db77a11b1aaaaa6b07ccc",
+      "path": "mods/iris-fabric-1.8.1+mc1.21.1.jar"
+    },
+    {
+      "hash": "fa33b8d5c9b3e1e305b84efc184578852bc2e60d",
+      "path": "mods/XibaoPlusPlus-Fabric-0.2.0-release-mc1.21.1.jar"
+    },
+    {
+      "hash": "2659dfa95eeeabb56dc8388c1bf4f492fa4f3de2",
+      "path": "mods/ModernUI-Fabric-1.21.1-3.11.1.9-universal.jar"
+    },
+    {
+      "hash": "322f08527d0e8c257f370c30969d8d4e6fd80cdd",
+      "path": "mods/tweakeroo-fabric-1.21-0.21.56.jar"
+    },
+    {
+      "hash": "427c4f03022aaf75447cdb747f160dda5f92a2cb",
+      "path": "mods/XaerosWorldMap_1.39.2_Fabric_1.21.jar"
+    },
+    {
+      "hash": "b8bc792b4ef5b77b8a11e9b7f74737f1d58f5cf6",
+      "path": "config/splash.properties"
+    },
+    {
+      "hash": "0034d877ec2ea3155efaf54db8549db1e094f003",
+      "path": "config/cardinal-components-api.properties"
+    },
+    {
+      "hash": "c0e2d08b0375f880b19df940e2c0db4a94cd811b",
+      "path": "config/ftbessentials.snbt"
+    },
+    {
+      "hash": "6a83c8b806b818ae23a1976baa52bfc30436206a",
+      "path": "config/NoChatReports/NCR-Common.json"
+    },
+    {
+      "hash": "1493c077473fe3f8a2216a24156d6ccab79de39a",
+      "path": "config/NoChatReports/NCR-Client.json"
+    },
+    {
+      "hash": "3c04f45c210048b5e722b294dcc0d9f073374160",
+      "path": "config/NoChatReports/NCR-ServerPreferences.json"
+    },
+    {
+      "hash": "c39b7586c81b8b8f81b3a6ea72475ba9e987d8a2",
+      "path": "config/NoChatReports/NCR-Encryption.json"
+    },
+    {
+      "hash": "75d98286a0aa3e180708523c8f582a2d23e590b3",
+      "path": "config/NoChatReports/README.md"
+    },
+    {
+      "hash": "6d05fdd90ec623311b54d7df474341ceb4dab7ce",
+      "path": "config/fabric/indigo-renderer.properties"
+    },
+    {
+      "hash": "70f77bae634ab902d59a9b0cb7a38994a4f69701",
+      "path": "config/connectiblechains.toml"
+    },
+    {
+      "hash": "626158de39de7ec0bdd37b7308d7a78598334cdb",
+      "path": "config/bombastic.json"
+    },
+    {
+      "hash": "b2a067bb9fc1d9cdb69b5d05110fafc13b20de0d",
+      "path": "config/sodium-mixins.properties"
+    },
+    {
+      "hash": "3f3640e04f3c89d11fddfadbb6514b80374046af",
+      "path": "config/balm-common.toml"
+    },
+    {
+      "hash": "cfa60cb9fc1260b3c92e2eb08ac7e0d4d13274f5",
+      "path": "config/cupboard.json"
+    },
+    {
+      "hash": "dfaa33165e5ac4a6cfc5605ff960fe727dd0980c",
+      "path": "config/waystones-common.toml"
+    },
+    {
+      "hash": "4994b8afdf50b6412aa302a70c31a9f04bfb73fa",
+      "path": "config/appleskin.json5"
+    },
+    {
+      "hash": "54fb55039959a3a24af55fc36792534696b61668",
+      "path": "config/chat_heads.json5"
+    },
+    {
+      "hash": "a8a4458dce77bc89e82e71719ad2cc14b2739d39",
+      "path": "config/jei/blacklist.json"
+    },
+    {
+      "hash": "a05b839ff077e35764f48e6b28864b0ac3aa2a5d",
+      "path": "config/jei/recipe-category-sort-order.ini"
+    },
+    {
+      "hash": "0754adba060d51d614d0716f6c875ff3e89db802",
+      "path": "config/jei/ingredient-list-mod-sort-order.ini"
+    },
+    {
+      "hash": "2802426f57118110bb6361e2a2f128e0a873219e",
+      "path": "config/jei/ingredient-list-type-sort-order.ini"
+    },
+    {
+      "hash": "af0234b757b5141c7e1e45402ff042f89ddfb983",
+      "path": "config/jei/jei-debug.ini"
+    },
+    {
+      "hash": "e4f3a1d7b50ab95a008da310b271a3887bb67df2",
+      "path": "config/jei/jei-mod-id-format.ini"
+    },
+    {
+      "hash": "3acac72b07b43c2d60220fb454a50fca76cebe2c",
+      "path": "config/jei/jei-colors.ini"
+    },
+    {
+      "hash": "5705c0e1ef776162d765f3539669caf65d94c44f",
+      "path": "config/jei/jei-client.ini"
+    },
+    {
+      "hash": "aeeeb4ef9c9f80c40defb65c521ec87f8e36e5a7",
+      "path": "config/forgeconfigapiport.toml"
+    },
+    {
+      "hash": "d82176e17a73d521244983444f57097e92bf6a5a",
+      "path": "config/sodium-fingerprint.json"
+    },
+    {
+      "hash": "8c1576fa4de2498ccb7d6277aff243eac470421d",
+      "path": "config/sodium-options.json"
+    },
+    {
+      "hash": "915452fb1922d961402319e95600be8bde2b31e1",
+      "path": "config/xaerominimap-common.txt"
+    },
+    {
+      "hash": "717df1b2e35d96137e40fe48ef1863c43ba734ab",
+      "path": "config/xaeroworldmap-common.txt"
+    },
+    {
+      "hash": "ecc6a856d79007279df5ea5a71bcbd05bfea3e08",
+      "path": "config/xaeroworldmap.txt"
+    },
+    {
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "path": "config/xaeropatreon.txt"
+    },
+    {
+      "hash": "db38320b377bff852267272d4a076556232d5262",
+      "path": "config/iris.properties"
+    },
+    {
+      "hash": "0ba05c286593c17aa2dc435b471f6d508981d0af",
+      "path": "config/jade/sort-order.json"
+    },
+    {
+      "hash": "ef2152a130cc5ff42903c76e69c3e4279d94b9e7",
+      "path": "config/jade/hide-entities.json"
+    },
+    {
+      "hash": "a503776a467ca75d97916f99bf665dbf64a521a9",
+      "path": "config/jade/hide-blocks.json"
+    },
+    {
+      "hash": "8ea73ab5be986b34ee05bf2dcef295f59dcde376",
+      "path": "config/jade/jade.json"
+    },
+    {
+      "hash": "5654e93ab8b205959f8c73ae5d1f3145120d7238",
+      "path": "config/jade/plugins.json"
+    },
+    {
+      "hash": "9f4c7be9347129c6e38888d0a231af32fa45ce9b",
+      "path": "config/jade/usernamecache.json"
+    },
+    {
+      "hash": "7a3ce768adc82f41413cc79f684eb54b5b836cd5",
+      "path": "config/xaerominimap.txt"
+    },
+    {
+      "hash": "3883f4b50d5c56d0ad5034b4405050f28d9b40de",
+      "path": "config/xaerominimap_entities.json"
+    },
+    {
+      "hash": "f8039f3d226ee6e53a2de7e5496326d845b6f869",
+      "path": "config/balm-common.out.toml"
+    },
+    {
+      "hash": "df28221eb88727032b4cb5b86dd76038e6c4c47f",
+      "path": "config/gammautils.json"
+    },
+    {
+      "hash": "d1f10fbacb91be7ec9b84ad261059c9fb4e5d62f",
+      "path": "config/modmenu.json"
+    },
+    {
+      "hash": "352dc64cf488a10ef49ad96d2cde9cc88e5db725",
+      "path": "config/litematica/litematica_node2.yunmc.vip_20155_dim_minecraft_overworld.json"
+    },
+    {
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895",
+      "path": "config/litematica/litematica_node2.yunmc.vip_20155.json"
+    },
+    {
+      "hash": "352dc64cf488a10ef49ad96d2cde9cc88e5db725",
+      "path": "config/litematica/litematica_node2.yunmc.vip_20155_dim_minecraft_the_nether.json"
+    },
+    {
+      "hash": "e6eac06b86e77a90218f36997cbe0a33fb1e4a82",
+      "path": "config/ferritecore.mixin.properties"
+    },
+    {
+      "hash": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
+      "path": "config/lithium.properties"
+    },
+    {
+      "hash": "330d4bf8b7d99fca1b7a6838b63031e4a3bf1401",
+      "path": "config/RuOK.toml"
+    },
+    {
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89",
+      "path": "config/sodium-extra.properties"
+    },
+    {
+      "hash": "8727629e9c190d056c83b2ca42424912fa1d8d8e",
+      "path": "config/tweakeroo.json"
+    },
+    {
+      "hash": "b9fa2f860583c210f1295131fa19e77e11de8876",
+      "path": "config/sodiumdynamiclights-client.toml"
+    },
+    {
+      "hash": "62e1e6b6673411676c7eabd7615df0c36c4cde8f",
+      "path": "config/sodiumextras-client.toml"
+    },
+    {
+      "hash": "f3fe34a46bd1e12b03c1c2af89e4bd8ff6761e26",
+      "path": "config/sodium-extra-options.json"
+    },
+    {
+      "hash": "b4779ac8f2d2cd5f4292dbf7cb7072e44e32e5a9",
+      "path": "config/malilib.json"
+    },
+    {
+      "hash": "616eab4ff9110d3584a1a4f388b772840557ecaf",
+      "path": "config/caxton.json"
+    },
+    {
+      "hash": "6045ce0423209ed42d06a021fe698849fa303a0b",
+      "path": "config/litematica.json"
+    },
+    {
+      "hash": "635e1eba87ed27631e1f4d5790deec1915ec442e",
+      "path": "config/indium-renderer.properties"
+    },
+    {
+      "hash": "fb58c699543301e0c8d91e3272433a74c3c6e5a5",
+      "path": "config/ModernUI/bootstrap.properties"
+    },
+    {
+      "hash": "2674d33fa5f967a49b062b2beb3a261533914479",
+      "path": "config/ModernUI/common.toml"
+    },
+    {
+      "hash": "e0dc941e5055bf16e602f06177a64fd2986cd8c4",
+      "path": "config/ModernUI/client.toml"
+    },
+    {
+      "hash": "686c46e756514f03ea128a61afd60b917805cf42",
+      "path": "config/ModernUI/text.toml"
+    },
+    {
+      "hash": "c1faeb26c9f628a8ba912ee270dd61152afaffc5",
+      "path": "options.txt"
+    },
+    {
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b",
+      "path": "log4j2.xml"
+    },
+    {
+      "hash": "bdcde9010afcd0802b06b4b781a9d63efcd0efbd",
+      "path": "defaultconfigs/ftbessentials-server.snbt"
+    },
+    {
+      "hash": "b9aa3e742edbda9545e2ab8d12315f343a20d40c",
+      "path": "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
+    },
+    {
+      "hash": "79732bfea29a2877d0c9a92d41b01b7eaf5436a1",
+      "path": "defaultconfigs/ftbultimine/ftbultimine-client.snbt"
+    },
+    {
+      "hash": "cabd717550c8b7cda509a56cf48681470f5af7d7",
+      "path": "local/ftblibrary-client.snbt"
+    },
+    {
+      "hash": "8f5a3f11c216eeef32c558f41e69837d1666b89b",
+      "path": "local/ftbultimine-client.snbt"
+    },
+    {
+      "hash": "ff18e6a762b87d7e8bad0726ac7d9c153306c6d2",
+      "path": "resourcepacks/FreshAnimations_v1.9.2.zip"
+    },
+    {
+      "hash": "7d6fa4ae1e69cd83fbd00299a312504b47873edd",
+      "path": "resourcepacks/Xray_Ultimate_1.21_v5.2.2.zip"
+    },
+    {
+      "hash": "112c33f88dc9de26a5c85f25d4a27fdde2c14fc9",
+      "path": "resourcepacks/FA+All_Extensions-v1.4.zip"
+    },
+    {
+      "hash": "462a1c8681540b9ca1617a407ce2ebb049b19d0a",
+      "path": "resourcepacks/HiYuanTu_test.zip"
+    },
+    {
+      "hash": "20ea1a41637e1d87bf97f4542ac7c27bfae0f717",
+      "path": "servers.dat_old"
+    },
+    {
+      "hash": "20ea1a41637e1d87bf97f4542ac7c27bfae0f717",
+      "path": "servers.dat"
+    },
+    {
+      "hash": "199632890afc0fa5e6971dc2802c0d5b0f505746",
+      "path": "CustomSkinLoader/CustomSkinAPIPlus-ClientID"
+    },
+    {
+      "hash": "88dd32bbdbe934713e2b5d6e7bc709b674a172a8",
+      "path": "CustomSkinLoader/CustomSkinLoader.json"
+    },
+    {
+      "hash": "5fcbce797569c360076f92bf8bec3c3d90248d0f",
+      "path": "xibao_plus_plus.properties"
+    },
+    {
+      "hash": "292626f6ed2f34dfc8d1a69b8f082180c7bbd66e",
+      "path": "shaderpacks/ComplementaryUnbound_r5.0（低配）.zip"
+    },
+    {
+      "hash": "ddadd31e7c59cedadc1e704e5f83c872cb3d5e37",
+      "path": "shaderpacks/iterationT 3.2.0（中高配，推荐）.zip"
+    },
+    {
+      "hash": "c4b2bc852435b1218796731c8daebd0f294ac3a3",
+      "path": "shaderpacks/SEUS PTGI HRR 3（高配，未汉化）.zip"
+    },
+    {
+      "hash": "c3035dfdbd68efab506dd4f07a3df108ec4eb429",
+      "path": "shaderpacks/3.YoFPS Low (Chocapic13 Edit，超低配).zip"
+    },
+    {
+      "hash": "f00f0a09cb4c5313ff332ffa4a271eb7c97d2999",
+      "path": "shaderpacks/2.ComplementaryShaders_v4.5.1（低配）.zip"
+    },
+    {
+      "hash": "4dfb4278bdca478cb0a8c185ff8a3d2d1c646c86",
+      "path": "shaderpacks/ComplementaryReimagined_r5.3（低配）.zip"
+    },
+    {
+      "hash": "85e4028be9fb9feda2d4eb7addd54795e0c5cd43",
+      "path": "shaderpacks/BSL_v8.4.01.2（中配，未汉化）.zip"
+    },
+    {
+      "hash": "41a1ecb36651960724e1bb606bd9ea1416053b4b",
+      "path": "shaderpacks/SEUS PTGI HRR 3（高配，汉化）.zip"
+    },
+    {
+      "hash": "126896b5ea46c89c09fb16c47f995713f6551102",
+      "path": "shaderpacks/SEUS PTGI HRR Test 2.1（中高配，未汉化）.zip"
+    },
+    {
+      "hash": "827c8c31af3b32f86c6be8935cb59f90f73b9bcd",
+      "path": "shaderpacks/photon_v1.1（未汉化，中配）.zip"
+    },
+    {
+      "hash": "287435401537a9c3f77b36e640f93da7df77d56e",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/server_config.txt"
+    },
+    {
+      "hash": "5cd640c5a0336cddc85694b36e3a5f9464a71267",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/dimension_config.txt"
+    },
+    {
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/.lock"
+    },
+    {
+      "hash": "6e4e209187379aba6ba0112ea430a8cdb972e523",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/-1_-1.zip"
+    },
+    {
+      "hash": "b33b5b692b63021c51ac5b32f0cb7a88fe954919",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/0_-1.zip"
+    },
+    {
+      "hash": "b095515cef114067890fc8f3715d707a3e953996",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/-1_-2.zip"
+    },
+    {
+      "hash": "a49f9a281f13eba36ad9ee394b337e428b93877d",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/cache_1/-1_0.xwmc"
+    },
+    {
+      "hash": "5fbc1b5aee25733de459508d7fc311ef9f9a7180",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/cache_1/0_0.xwmc"
+    },
+    {
+      "hash": "02771a28d67f61c48a6f732e694ade9a61e599b2",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/cache_1/0_-1.xwmc"
+    },
+    {
+      "hash": "d2be6724a0f9261f1dcdb2b57ee080f3ff541d66",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/cache_1/0_1.xwmc"
+    },
+    {
+      "hash": "3138668093d81463c1c14553456f6b7223910d38",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/cache_1/0_-2.xwmc.outdated"
+    },
+    {
+      "hash": "a9c4e98482fc226980ff4ce55ae284920d02c3ab",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/cache_1/-1_-1.xwmc.outdated"
+    },
+    {
+      "hash": "1c2f0338ae00e25df365e338c0166fc69829d439",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/cache_1/-1_-2.xwmc.outdated"
+    },
+    {
+      "hash": "0c3ad4685ec8ddef4899f32d4cb65ed79977bbe9",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/0_-2.zip"
+    },
+    {
+      "hash": "d423559136a8d0e0e1eb0d56110fa7fdb2ecd930",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/-1_0.zip"
+    },
+    {
+      "hash": "6ae84dabda24c159c12141b87d4c6b6759f6f8b3",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/0_0.zip"
+    },
+    {
+      "hash": "285558d191d2998d63567002a10ffa37d17d7cdc",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/4/0_1.zip"
+    },
+    {
+      "hash": "09f1ba03487cf53ad4a0bfd51b9239bcc7899520",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/0_0.zip"
+    },
+    {
+      "hash": "2a575e6fde4029fcc29cc822ba0640bdcd34b649",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/cache_1/0_0.xwmc"
+    },
+    {
+      "hash": "c3a7eb7e189488aa2b48bf839c764c0ae0eff6c8",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/cache_1/0_-2.xwmc"
+    },
+    {
+      "hash": "576084e0d7459b4b755c120669f071a1986dfdb1",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/cache_1/-1_-1.xwmc"
+    },
+    {
+      "hash": "faec88128c1ba1378de3f24a4b515aff6163c057",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/cache_1/-1_-2.xwmc"
+    },
+    {
+      "hash": "57a8285e060d9b2ec53d275018b6e9f3458ab144",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/cache_1/0_1.xwmc"
+    },
+    {
+      "hash": "e8bbc5bc9c0738cfb05c2318eb05fe1656556a0a",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/cache_1/1_0.xwmc"
+    },
+    {
+      "hash": "ae71010b86c41b7bdd43419b76c08c1f867f5883",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/cache_1/1_1.xwmc"
+    },
+    {
+      "hash": "37c4255719b5cda2deb6e65331fae66684b0abfb",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/cache_1/-1_0.xwmc"
+    },
+    {
+      "hash": "0a9648006245a73a4faab171b452e439aeb25e2b",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/cache_1/0_-1.xwmc"
+    },
+    {
+      "hash": "c3fee37471132ad4495e1fe7dc9b44554393a281",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/-1_-1.zip"
+    },
+    {
+      "hash": "91cb3188fc40932e5bca9c13f2d78cd44222a703",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/-1_-2.zip"
+    },
+    {
+      "hash": "42a6bdc6eba431395c9da891eda84ead6dfaf163",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/0_-1.zip"
+    },
+    {
+      "hash": "a580b8b28398d810ba3276c4f8224e29485bee79",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/0_-2.zip"
+    },
+    {
+      "hash": "55d63a3dfe31f9c9dc5ffcca01c1e53d16763a15",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/0_1.zip"
+    },
+    {
+      "hash": "6c4a01ba2ce002684961309b09f15c633ad3ebbc",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/1_0.zip"
+    },
+    {
+      "hash": "d9f5fa3ce69b4e4ba83731b38742aea0c4788edd",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/1_1.zip"
+    },
+    {
+      "hash": "56436237e32808f38004d6e055ddff54afabcf94",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/3/-1_0.zip"
+    },
+    {
+      "hash": "cf987ee61a4c7a1816c41f5559d37e46cbf44713",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/5/0_0.zip"
+    },
+    {
+      "hash": "11482ef3abe4c1b62a56b6d52ace0a40f272e41b",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/5/-1_0.zip"
+    },
+    {
+      "hash": "97eefa3d6b7f92208b1c82abd22f957bb4856203",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/5/0_1.zip"
+    },
+    {
+      "hash": "30f0a4a93ae70fa9bccb88cc9cd1b92cd4bfbd42",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/5/cache_1/0_0.xwmc"
+    },
+    {
+      "hash": "b0c153ecc7bd6f707cb13afd5a9de693a1933109",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/5/cache_1/-1_0.xwmc"
+    },
+    {
+      "hash": "96520a1c9a1186bc17ae95e167d14fcbd19e77ea",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/5/cache_1/0_1.xwmc"
+    },
+    {
+      "hash": "c44ec8b790bf504bf394759afff694cb822f46cb",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/5/cache_1/-1_-1.xwmc"
+    },
+    {
+      "hash": "4b5951eb2b1915a57c296d51329cecea00283c78",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/5/cache_1/-1_-2.xwmc"
+    },
+    {
+      "hash": "85af67937ae1c6b95a4485409f97af5ed77a65d4",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/5/-1_-1.zip"
+    },
+    {
+      "hash": "636fae1b35cc4936c9b05206d8370dea9361df9f",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/5/-1_-2.zip"
+    },
+    {
+      "hash": "700400adb0772ccc1f1a8b640787689fcfb2b9bb",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/2/0_0.zip"
+    },
+    {
+      "hash": "f722fa412edc417055083d7b2f882f5549208430",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/2/0_1.zip"
+    },
+    {
+      "hash": "9499dd4a0b0f3afcc04471bbab383659147cf35b",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/2/cache_1/0_0.xwmc"
+    },
+    {
+      "hash": "06ca9352ff5ff8254db397637bdd3a4cc6fdf770",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/2/cache_1/0_1.xwmc"
+    },
+    {
+      "hash": "afa3690832bda7deffa98daacca1d7d42535757c",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/6/-1_-1.zip"
+    },
+    {
+      "hash": "b2a2d26673c960536d415f6e0f671e47470b9001",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/6/-1_-2.zip"
+    },
+    {
+      "hash": "279209e60cf2e3daef4a624efa7997b5403e0f8d",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/6/cache_1/-1_-1.xwmc"
+    },
+    {
+      "hash": "780094d63a70efbaeb157818939f13082c24734c",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/caves/6/cache_1/-1_-2.xwmc"
+    },
+    {
+      "hash": "694fd9dae1a621b6a4c68e574602b3bcb92114ed",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/-8_-1.zip"
+    },
+    {
+      "hash": "f9651280981c8e9867117b48e4daadc9ebf8b23b",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/cache_1/-8_-1.xwmc"
+    },
+    {
+      "hash": "27e66d469acef67f375ef039f6e8b784784a356b",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/cache_1/-8_0.xwmc"
+    },
+    {
+      "hash": "7893fd140eb701e5afb5006c38e5cc2f7605a489",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/cache_1/-7_-1.xwmc"
+    },
+    {
+      "hash": "c0e8429fe10f1dd9d01d72ab34d6338d16443382",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/cache_1/-1_-2.xwmc"
+    },
+    {
+      "hash": "0e620380aba0c98d3d2fd40503207b961ba97c2a",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/cache_1/0_-2.xwmc"
+    },
+    {
+      "hash": "c02ced5c13465664595146c03898f802e224c356",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/cache_1/0_1.xwmc"
+    },
+    {
+      "hash": "518842ef7af962dbb6426a5230de16fcd5e6e305",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/cache_1/-1_-1.xwmc"
+    },
+    {
+      "hash": "593664b7fd2f026220ae1aebc6d1e3e7821773f7",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/cache_1/0_-1.xwmc"
+    },
+    {
+      "hash": "0d478b33db04a329705fd09891cdbbfedd6ca5f7",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/cache_1/0_0.xwmc"
+    },
+    {
+      "hash": "c6108515e4a12951de650364a907506a0c24bb8a",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/cache_1/-1_0.xwmc"
+    },
+    {
+      "hash": "b1911ca53631481cc7e86f8ba024d176c40d71da",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/cache_1/1_0.xwmc"
+    },
+    {
+      "hash": "19e743fd20d20e4e14fc0fa9b05d57653a097c26",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/cache_1/1_1.xwmc"
+    },
+    {
+      "hash": "fdc319c54ddf4f1cc2eba2e8477c0c1b183a1d15",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/-8_0.zip"
+    },
+    {
+      "hash": "a827205d6bb749f877756804d313aec57c3339a6",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/-7_-1.zip"
+    },
+    {
+      "hash": "ae8e724d17e4b718bb7175ad1c897681321ad435",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/-1_-1.zip"
+    },
+    {
+      "hash": "3c97e83aee65e66d2f9f994c9dcf17c51913f512",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/0_-1.zip"
+    },
+    {
+      "hash": "717b88713efeac731e00ab9df8e99e510bf86c5b",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/-1_-2.zip"
+    },
+    {
+      "hash": "b50afd8c22a76dc7d914423f7169bf8ad7ecb248",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/0_-2.zip"
+    },
+    {
+      "hash": "9920e4f8fd08b12c22f1e114c30a951f04fb394c",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/-1_0.zip"
+    },
+    {
+      "hash": "0bd8309ee28a1b38862c4d5775676d23f33bd75f",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/0_0.zip"
+    },
+    {
+      "hash": "e3cd1441b15d136ca8ffb8e8a7c940a852ada55f",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/1_0.zip"
+    },
+    {
+      "hash": "c9a927cdbf4425c16facde2a788660417eb2c11a",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/0_1.zip"
+    },
+    {
+      "hash": "7046ef373d83b0ebc5576d1b4f25ed903bb86127",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/null/mw$default/1_1.zip"
+    },
+    {
+      "hash": "a3bf0eebfa0b4fda3e730087cccec84171208933",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/dimension_config.txt"
+    },
+    {
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/.lock"
+    },
+    {
+      "hash": "8a558101749975359e0de51fe35f82e4ea9f79e8",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/caves/4/-1_-1.zip"
+    },
+    {
+      "hash": "9f686d33bee7475d7c01425285ff076344509b21",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/caves/4/0_-1.zip"
+    },
+    {
+      "hash": "872a1f7077aea148ea3b0ae86f146f0316f567fa",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/caves/4/cache_1/-1_-1.xwmc"
+    },
+    {
+      "hash": "a0c3430fdd4a8f66aecc58b777318ef82de77f0b",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/caves/4/cache_1/0_-1.xwmc"
+    },
+    {
+      "hash": "523c560066465516b51aaca218055b15d97d2924",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/caves/7/-1_-1.zip"
+    },
+    {
+      "hash": "f1fc94a1bc891a4fc8ca84aefe2aff76af78baf2",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/caves/7/-1_0.zip"
+    },
+    {
+      "hash": "ad7e0f0aa67eba8345a5a9c6ee3702f5903678e6",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/caves/7/0_0.zip"
+    },
+    {
+      "hash": "8dac2bfb8d5dd0f7b4458e24232e52752b7f2781",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/caves/7/0_-1.zip"
+    },
+    {
+      "hash": "5ad9e84a63d6a61afd381812ec08bbfdba5706c0",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/-1_-1.zip"
+    },
+    {
+      "hash": "d6b72fafe703af029d180efed39f94f7c0a30066",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/0_-1.zip"
+    },
+    {
+      "hash": "57be6ae681caab1dada76a6f1e0f4c409323ad29",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/-1_0.zip"
+    },
+    {
+      "hash": "7d0e6cecabae1a483e2d8515c8cf3f5ec8fb58d9",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/cache_1/-1_-1.xwmc"
+    },
+    {
+      "hash": "37897232dcd8772535d0577ee991eccbeaea255b",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/cache_1/0_-1.xwmc"
+    },
+    {
+      "hash": "cbda4a0e373f94d6dbec64143a01d4ff0ce937b8",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/cache_1/-1_0.xwmc"
+    },
+    {
+      "hash": "850c57f995242e9b4866afca56ba05bf1ca5faa5",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/cache_1/0_0.xwmc"
+    },
+    {
+      "hash": "03f2155f0f5c7eae516d5da6850ef431b7a8ae09",
+      "path": "xaero/world-map/Multiplayer_node2.yunmc.vip/DIM-1/mw$default/0_0.zip"
+    },
+    {
+      "hash": "a334ef83ab9d782b6dbdecc8d8f600e2b45f936c",
+      "path": "xaero/minimap/Multiplayer_node2.yunmc.vip/config.txt"
+    },
+    {
+      "hash": "22636629a50b85deafa7071102b384ebd12edc0c",
+      "path": "xaero/minimap/Multiplayer_node2.yunmc.vip/dim%0/mw$default_1.txt"
+    },
+    {
+      "hash": "85c57789ab05693062e1c773d46b5136f1a41ecc",
+      "path": "XaeroWaypoints_BACKUP240807/Multiplayer_node2.yunmc.vip/config.txt"
+    }
+  ],
+  "name": "HiYuanTu\u0026HCE Modpack Project Pro Auto Update For HiYuanTu",
+  "version": "3.0.0_Release"
+}
