@@ -1,0 +1,18 @@
+{
+  "author": "Hmjmfabc",
+  "files": [],
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "minecraft": {
+    "version": "1.21.1",
+    "modLoaders": [
+      {
+        "id": "fabric-0.16.10",
+        "primary": true
+      }
+    ]
+  },
+  "name": "HiYuanTu\u0026HCE Modpack Project Pro Auto Update",
+  "overrides": "overrides",
+  "version": "3.0.0"
+}
