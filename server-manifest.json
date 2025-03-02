@@ -1,0 +1,587 @@
+{
+  "addons": [
+    {
+      "id": "game",
+      "version": "1.21.1"
+    },
+    {
+      "id": "fabric",
+      "version": "0.16.10"
+    }
+  ],
+  "author": "Hmjmfabc",
+  "description": "test",
+  "fileApi": "https://raw.githubusercontent.com/hmjmfabc/HCE-HiYuanTu-Modpack-Project/refs/heads/master",
+  "files": [
+    {
+      "hash": "292626f6ed2f34dfc8d1a69b8f082180c7bbd66e",
+      "path": "shaderpacks/ComplementaryUnbound_r5.0（低配）.zip"
+    },
+    {
+      "hash": "ddadd31e7c59cedadc1e704e5f83c872cb3d5e37",
+      "path": "shaderpacks/iterationT 3.2.0（中高配，推荐）.zip"
+    },
+    {
+      "hash": "c4b2bc852435b1218796731c8daebd0f294ac3a3",
+      "path": "shaderpacks/SEUS PTGI HRR 3（高配，未汉化）.zip"
+    },
+    {
+      "hash": "c3035dfdbd68efab506dd4f07a3df108ec4eb429",
+      "path": "shaderpacks/3.YoFPS Low (Chocapic13 Edit，超低配).zip"
+    },
+    {
+      "hash": "f00f0a09cb4c5313ff332ffa4a271eb7c97d2999",
+      "path": "shaderpacks/2.ComplementaryShaders_v4.5.1（低配）.zip"
+    },
+    {
+      "hash": "4dfb4278bdca478cb0a8c185ff8a3d2d1c646c86",
+      "path": "shaderpacks/ComplementaryReimagined_r5.3（低配）.zip"
+    },
+    {
+      "hash": "85e4028be9fb9feda2d4eb7addd54795e0c5cd43",
+      "path": "shaderpacks/BSL_v8.4.01.2（中配，未汉化）.zip"
+    },
+    {
+      "hash": "41a1ecb36651960724e1bb606bd9ea1416053b4b",
+      "path": "shaderpacks/SEUS PTGI HRR 3（高配，汉化）.zip"
+    },
+    {
+      "hash": "126896b5ea46c89c09fb16c47f995713f6551102",
+      "path": "shaderpacks/SEUS PTGI HRR Test 2.1（中高配，未汉化）.zip"
+    },
+    {
+      "hash": "827c8c31af3b32f86c6be8935cb59f90f73b9bcd",
+      "path": "shaderpacks/photon_v1.1（未汉化，中配）.zip"
+    },
+    {
+      "hash": "aef1ce337bca2733e2c7ed74b235470bf412e2d8",
+      "path": "options.txt"
+    },
+    {
+      "hash": "d47d254675d1aee18670aece5ed768e1e631517b",
+      "path": "log4j2.xml"
+    },
+    {
+      "hash": "c2efdb90a28dc0b1c1d8294bca382ce142fdb7e3",
+      "path": "PCL/Setup.ini"
+    },
+    {
+      "hash": "199632890afc0fa5e6971dc2802c0d5b0f505746",
+      "path": "CustomSkinLoader/CustomSkinAPIPlus-ClientID"
+    },
+    {
+      "hash": "88dd32bbdbe934713e2b5d6e7bc709b674a172a8",
+      "path": "CustomSkinLoader/CustomSkinLoader.json"
+    },
+    {
+      "hash": "f8ca07fc24ee2bdf56057da84a066dd211f46c90",
+      "path": "fclversion.cfg"
+    },
+    {
+      "hash": "3c8ef733e48434b226c77f73d5b8bf8d3b69c763",
+      "path": "resourcepacks/HiYuanTu_test.zip"
+    },
+    {
+      "hash": "ff18e6a762b87d7e8bad0726ac7d9c153306c6d2",
+      "path": "resourcepacks/FreshAnimations_v1.9.2.zip"
+    },
+    {
+      "hash": "7d6fa4ae1e69cd83fbd00299a312504b47873edd",
+      "path": "resourcepacks/Xray_Ultimate_1.21_v5.2.2.zip"
+    },
+    {
+      "hash": "112c33f88dc9de26a5c85f25d4a27fdde2c14fc9",
+      "path": "resourcepacks/FA+All_Extensions-v1.4.zip"
+    },
+    {
+      "hash": "0054ec005ed182d96fecf89dfefe981e95266860",
+      "path": "local/ftblibrary-client.snbt"
+    },
+    {
+      "hash": "8f5a3f11c216eeef32c558f41e69837d1666b89b",
+      "path": "local/ftbultimine-client.snbt"
+    },
+    {
+      "hash": "79732bfea29a2877d0c9a92d41b01b7eaf5436a1",
+      "path": "defaultconfigs/ftbultimine/ftbultimine-client.snbt"
+    },
+    {
+      "hash": "b9aa3e742edbda9545e2ab8d12315f343a20d40c",
+      "path": "defaultconfigs/ftblibrary/ftblibrary-client.snbt"
+    },
+    {
+      "hash": "bdcde9010afcd0802b06b4b781a9d63efcd0efbd",
+      "path": "defaultconfigs/ftbessentials-server.snbt"
+    },
+    {
+      "hash": "f3b25370880524115cd184335c52c9d6f6479d29",
+      "path": "servers.dat_old"
+    },
+    {
+      "hash": "f3b25370880524115cd184335c52c9d6f6479d29",
+      "path": "servers.dat"
+    },
+    {
+      "hash": "b8bc792b4ef5b77b8a11e9b7f74737f1d58f5cf6",
+      "path": "config/splash.properties"
+    },
+    {
+      "hash": "f3fe34a46bd1e12b03c1c2af89e4bd8ff6761e26",
+      "path": "config/sodium-extra-options.json"
+    },
+    {
+      "hash": "1573fc320a363b30a1a5e4cae1d4596ec177085d",
+      "path": "config/etf_warnings.json"
+    },
+    {
+      "hash": "e90b2514226a0624cf42112b42477f9872598b89",
+      "path": "config/sodium-extra.properties"
+    },
+    {
+      "hash": "35242d963cd20e8af784e5dd0e35314f5cd5374d",
+      "path": "config/jade/usernamecache.json"
+    },
+    {
+      "hash": "0ba05c286593c17aa2dc435b471f6d508981d0af",
+      "path": "config/jade/sort-order.json"
+    },
+    {
+      "hash": "ef2152a130cc5ff42903c76e69c3e4279d94b9e7",
+      "path": "config/jade/hide-entities.json"
+    },
+    {
+      "hash": "a503776a467ca75d97916f99bf665dbf64a521a9",
+      "path": "config/jade/hide-blocks.json"
+    },
+    {
+      "hash": "8ea73ab5be986b34ee05bf2dcef295f59dcde376",
+      "path": "config/jade/jade.json"
+    },
+    {
+      "hash": "5654e93ab8b205959f8c73ae5d1f3145120d7238",
+      "path": "config/jade/plugins.json"
+    },
+    {
+      "hash": "907d2d2c52d47b4f41ee991ba9692ad1bb667da0",
+      "path": "config/entity_texture_features.json"
+    },
+    {
+      "hash": "b4779ac8f2d2cd5f4292dbf7cb7072e44e32e5a9",
+      "path": "config/malilib.json"
+    },
+    {
+      "hash": "6fbb65f4dd8c757a8cfef6133c2d8212ac12e45e",
+      "path": "config/litematica.json"
+    },
+    {
+      "hash": "9b28a802b3a27b727c2c58e1dafac2a47c98b2c1",
+      "path": "config/RuOK.toml"
+    },
+    {
+      "hash": "38f2993a7d80d0a6a25eb6182bd6898af24a16eb",
+      "path": "config/lithium.properties"
+    },
+    {
+      "hash": "e6eac06b86e77a90218f36997cbe0a33fb1e4a82",
+      "path": "config/ferritecore.mixin.properties"
+    },
+    {
+      "hash": "0034d877ec2ea3155efaf54db8549db1e094f003",
+      "path": "config/cardinal-components-api.properties"
+    },
+    {
+      "hash": "c0e2d08b0375f880b19df940e2c0db4a94cd811b",
+      "path": "config/ftbessentials.snbt"
+    },
+    {
+      "hash": "70f77bae634ab902d59a9b0cb7a38994a4f69701",
+      "path": "config/connectiblechains.toml"
+    },
+    {
+      "hash": "626158de39de7ec0bdd37b7308d7a78598334cdb",
+      "path": "config/bombastic.json"
+    },
+    {
+      "hash": "b2a067bb9fc1d9cdb69b5d05110fafc13b20de0d",
+      "path": "config/sodium-mixins.properties"
+    },
+    {
+      "hash": "3f3640e04f3c89d11fddfadbb6514b80374046af",
+      "path": "config/balm-common.toml"
+    },
+    {
+      "hash": "cfa60cb9fc1260b3c92e2eb08ac7e0d4d13274f5",
+      "path": "config/cupboard.json"
+    },
+    {
+      "hash": "dfaa33165e5ac4a6cfc5605ff960fe727dd0980c",
+      "path": "config/waystones-common.toml"
+    },
+    {
+      "hash": "dbcbcf5e9ef21944e1608bc904066e452f482a2b",
+      "path": "config/fabric/indigo-renderer.properties"
+    },
+    {
+      "hash": "6a83c8b806b818ae23a1976baa52bfc30436206a",
+      "path": "config/NoChatReports/NCR-Common.json"
+    },
+    {
+      "hash": "1493c077473fe3f8a2216a24156d6ccab79de39a",
+      "path": "config/NoChatReports/NCR-Client.json"
+    },
+    {
+      "hash": "3c04f45c210048b5e722b294dcc0d9f073374160",
+      "path": "config/NoChatReports/NCR-ServerPreferences.json"
+    },
+    {
+      "hash": "c39b7586c81b8b8f81b3a6ea72475ba9e987d8a2",
+      "path": "config/NoChatReports/NCR-Encryption.json"
+    },
+    {
+      "hash": "75d98286a0aa3e180708523c8f582a2d23e590b3",
+      "path": "config/NoChatReports/README.md"
+    },
+    {
+      "hash": "4994b8afdf50b6412aa302a70c31a9f04bfb73fa",
+      "path": "config/appleskin.json5"
+    },
+    {
+      "hash": "54fb55039959a3a24af55fc36792534696b61668",
+      "path": "config/chat_heads.json5"
+    },
+    {
+      "hash": "aeeeb4ef9c9f80c40defb65c521ec87f8e36e5a7",
+      "path": "config/forgeconfigapiport.toml"
+    },
+    {
+      "hash": "d82176e17a73d521244983444f57097e92bf6a5a",
+      "path": "config/sodium-fingerprint.json"
+    },
+    {
+      "hash": "3acac72b07b43c2d60220fb454a50fca76cebe2c",
+      "path": "config/jei/jei-colors.ini"
+    },
+    {
+      "hash": "5705c0e1ef776162d765f3539669caf65d94c44f",
+      "path": "config/jei/jei-client.ini"
+    },
+    {
+      "hash": "e4f3a1d7b50ab95a008da310b271a3887bb67df2",
+      "path": "config/jei/jei-mod-id-format.ini"
+    },
+    {
+      "hash": "af0234b757b5141c7e1e45402ff042f89ddfb983",
+      "path": "config/jei/jei-debug.ini"
+    },
+    {
+      "hash": "2802426f57118110bb6361e2a2f128e0a873219e",
+      "path": "config/jei/ingredient-list-type-sort-order.ini"
+    },
+    {
+      "hash": "a8a4458dce77bc89e82e71719ad2cc14b2739d39",
+      "path": "config/jei/blacklist.json"
+    },
+    {
+      "hash": "68e79289981d7b96ea89467aaecaca3772c35d55",
+      "path": "config/jei/ingredient-list-mod-sort-order.ini"
+    },
+    {
+      "hash": "a05b839ff077e35764f48e6b28864b0ac3aa2a5d",
+      "path": "config/jei/recipe-category-sort-order.ini"
+    },
+    {
+      "hash": "5bf8a5acc96509f7ff8deee866379f963bd45277",
+      "path": "config/sodium-options.json"
+    },
+    {
+      "hash": "915452fb1922d961402319e95600be8bde2b31e1",
+      "path": "config/xaerominimap-common.txt"
+    },
+    {
+      "hash": "717df1b2e35d96137e40fe48ef1863c43ba734ab",
+      "path": "config/xaeroworldmap-common.txt"
+    },
+    {
+      "hash": "352dc64cf488a10ef49ad96d2cde9cc88e5db725",
+      "path": "config/litematica/litematica_fever2.yunmc.vip_10037_dim_bracken_void.json"
+    },
+    {
+      "hash": "352dc64cf488a10ef49ad96d2cde9cc88e5db725",
+      "path": "config/litematica/litematica_fever2.yunmc.vip_10037_dim_bracken_sanctum.json"
+    },
+    {
+      "hash": "352dc64cf488a10ef49ad96d2cde9cc88e5db725",
+      "path": "config/litematica/litematica_fever2.yunmc.vip_10037_dim_minecraft_the_nether.json"
+    },
+    {
+      "hash": "352dc64cf488a10ef49ad96d2cde9cc88e5db725",
+      "path": "config/litematica/litematica_fever2.yunmc.vip_10037_dim_bracken_the_underdark.json"
+    },
+    {
+      "hash": "352dc64cf488a10ef49ad96d2cde9cc88e5db725",
+      "path": "config/litematica/litematica_fever2.yunmc.vip_10037_dim_bracken_the_faewild.json"
+    },
+    {
+      "hash": "352dc64cf488a10ef49ad96d2cde9cc88e5db725",
+      "path": "config/litematica/litematica_fever2.yunmc.vip_10037_dim_bracken_glacium.json"
+    },
+    {
+      "hash": "af8ee9713b815975fe500bc58d13cd6424fb4895",
+      "path": "config/litematica/litematica_fever2.yunmc.vip_10037.json"
+    },
+    {
+      "hash": "352dc64cf488a10ef49ad96d2cde9cc88e5db725",
+      "path": "config/litematica/litematica_fever2.yunmc.vip_10037_dim_minecraft_overworld.json"
+    },
+    {
+      "hash": "ecc6a856d79007279df5ea5a71bcbd05bfea3e08",
+      "path": "config/xaeroworldmap.txt"
+    },
+    {
+      "hash": "686c46e756514f03ea128a61afd60b917805cf42",
+      "path": "config/ModernUI/text.toml"
+    },
+    {
+      "hash": "950447975ae8a4700cfe57504cd12dc8dac9176e",
+      "path": "config/ModernUI/client.toml"
+    },
+    {
+      "hash": "2674d33fa5f967a49b062b2beb3a261533914479",
+      "path": "config/ModernUI/common.toml"
+    },
+    {
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "path": "config/ModernUI/bootstrap.properties"
+    },
+    {
+      "hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+      "path": "config/xaeropatreon.txt"
+    },
+    {
+      "hash": "0019d62e86e060b975cc3b01afe064b27e253a4e",
+      "path": "config/iris.properties"
+    },
+    {
+      "hash": "7a3ce768adc82f41413cc79f684eb54b5b836cd5",
+      "path": "config/xaerominimap.txt"
+    },
+    {
+      "hash": "1ecdae76584f3c99c3d4b7b6edfcd302714de29c",
+      "path": "config/xaerominimap_entities.json"
+    },
+    {
+      "hash": "f8039f3d226ee6e53a2de7e5496326d845b6f869",
+      "path": "config/balm-common.out.toml"
+    },
+    {
+      "hash": "df28221eb88727032b4cb5b86dd76038e6c4c47f",
+      "path": "config/gammautils.json"
+    },
+    {
+      "hash": "d1f10fbacb91be7ec9b84ad261059c9fb4e5d62f",
+      "path": "config/modmenu.json"
+    },
+    {
+      "hash": "a3eefce7079418f6cbe6d2764ed1f19849ae8cef",
+      "path": "mods/lithium-fabric-0.14.7+mc1.21.1.jar"
+    },
+    {
+      "hash": "881ff81ff2c6bee2fa6e068351846942c7becb89",
+      "path": "mods/litematica-fabric-1.21-0.19.54.jar"
+    },
+    {
+      "hash": "48ee764932d0c8ec81a2223dbe333886938e512c",
+      "path": "mods/ferritecore-7.0.2-hotfix-fabric.jar"
+    },
+    {
+      "hash": "3e77439154fada468475b08a268de7012c8d90f3",
+      "path": "mods/entity_texture_features_fabric_1.21.1-6.2.9.jar"
+    },
+    {
+      "hash": "c7f09b53512604c2ba6803b1247bc70e4d0f8f8c",
+      "path": "mods/continuity-3.0.0+1.21.jar"
+    },
+    {
+      "hash": "e71346a43c563e5784580dd096338acfb45f49d4",
+      "path": "mods/architectury-13.0.8-fabric.jar"
+    },
+    {
+      "hash": "1627e303e79648f36624e0de6f7370ad79a85cca",
+      "path": "mods/carpet-permissions-1.0-SNAPSHOT.jar"
+    },
+    {
+      "hash": "b39bcea5b7c45ea07290ff5c69b4d801aa408f98",
+      "path": "mods/DungeonsAriseSevenSeas-1.21.x-1.0.3-fabric.jar"
+    },
+    {
+      "hash": "899e724cb94511c4aaff651c80cf71bfb527ce5a",
+      "path": "mods/elytraslot-fabric-9.0.1+1.21.1.jar"
+    },
+    {
+      "hash": "41594bd81f1e60e364f76b2e2bfca10cfdcf91bd",
+      "path": "mods/fabric-api-0.115.0+1.21.1.jar"
+    },
+    {
+      "hash": "18afe83ff0ae087387c5f72ce5cf376c3f511b3a",
+      "path": "mods/DungeonsArise-1.21.x-2.1.60-fabric-release.jar"
+    },
+    {
+      "hash": "f54756f938c7c273713b9f97d4a987eec551e892",
+      "path": "mods/trinkets-3.10.0.jar"
+    },
+    {
+      "hash": "789cabd9b1fed079af87f675d1d6c1c95b603e19",
+      "path": "mods/NoChatReports-FABRIC-1.21.1-v2.9.1.jar"
+    },
+    {
+      "hash": "3629e2af6ae540277b3fd40da4b162a3b35da5e4",
+      "path": "mods/minopp-1.1.0+1.21.1+fabric.jar"
+    },
+    {
+      "hash": "18bc5c4f40ff6e47d65526a59244c9ea57b83e3f",
+      "path": "mods/betterbeds-fabric-1.4.0.jar"
+    },
+    {
+      "hash": "a3bb744c936b85fc70bcae4489ba29c50b812454",
+      "path": "mods/infwithmend-1.1.0.jar"
+    },
+    {
+      "hash": "9b638ac1cde8113f17e6632ca34c36863a5dbbf4",
+      "path": "mods/AOW-1.21.1-1.0.1.jar"
+    },
+    {
+      "hash": "91c7a7bb2dac4ea03ded940c0d3d3c76cbae8aa2",
+      "path": "mods/ftb-library-fabric-2101.1.8.jar"
+    },
+    {
+      "hash": "2cf45a4f03bf10954ce4a4e8f3e912e8be4547fe",
+      "path": "mods/ftb-essentials-fabric-2101.1.4.jar"
+    },
+    {
+      "hash": "54f2907d83e67283d165336f26e5219d4bd36037",
+      "path": "mods/fabric-carpet-1.21-1.4.147+v240613.jar"
+    },
+    {
+      "hash": "3ca13ca9b442e975908ff7eadf660af80c30beb4",
+      "path": "mods/Bombastic.jar"
+    },
+    {
+      "hash": "fa33b8d5c9b3e1e305b84efc184578852bc2e60d",
+      "path": "mods/XibaoPlusPlus-Fabric-0.2.0-release-mc1.21.1.jar"
+    },
+    {
+      "hash": "aae70e2976cf792b586c235496a6524a6b80b86a",
+      "path": "mods/RuOK-1.21.1-fabric-1.7.0.jar"
+    },
+    {
+      "hash": "5d82342a2df53fd6df712bfdd583a811572918a4",
+      "path": "mods/cloth-config-15.0.140-fabric.jar"
+    },
+    {
+      "hash": "7899228fca40b30380ef3d859ccf43c279b6e5fd",
+      "path": "mods/connectiblechains-2.5.2+1.21.1.jar"
+    },
+    {
+      "hash": "68469cfbcb1b7fcdb0d11c8b984a657adfac5684",
+      "path": "mods/sodium-fabric-0.6.5+mc1.21.1.jar"
+    },
+    {
+      "hash": "f4dfe51f2e378b29a5329504a324df4faf6133f0",
+      "path": "mods/CustomSkinLoader_Fabric-14.22.jar"
+    },
+    {
+      "hash": "75d310fa49925f51ccb162a4802f73316e5438d2",
+      "path": "mods/balm-fabric-1.21.1-21.0.23.jar"
+    },
+    {
+      "hash": "73e792eb5f120787becda4b87b6ff18b26caea50",
+      "path": "mods/krypton-0.2.8.jar"
+    },
+    {
+      "hash": "6213120772192040a0aeb5c7cfe330c068605b1f",
+      "path": "mods/modmenu-11.0.3.jar"
+    },
+    {
+      "hash": "5aedc3d9632de6e02ef4cdaaceaa00b834caf37a",
+      "path": "mods/waystones-fabric-1.21.1-21.1.9.jar"
+    },
+    {
+      "hash": "dc0c17f98fe518b75aa6ba4b4e57957e1d770073",
+      "path": "mods/jei-1.21.1-fabric-19.21.0.247.jar"
+    },
+    {
+      "hash": "97452cfadfde1f8f8c67838643019eabafa58fbb",
+      "path": "mods/appleskin-fabric-mc1.21-3.0.6.jar"
+    },
+    {
+      "hash": "79196a124dbc3e52e06767bbd624ebb12573b9a8",
+      "path": "mods/Jade-1.21.1-Fabric-15.9.2.jar"
+    },
+    {
+      "hash": "9f2340085b953de3155d08f3f168af114cd101dd",
+      "path": "mods/Xaeros_Minimap_25.0.0_Fabric_1.21.jar"
+    },
+    {
+      "hash": "292dd61803e8e7c0f18db77a11b1aaaaa6b07ccc",
+      "path": "mods/iris-fabric-1.8.1+mc1.21.1.jar"
+    },
+    {
+      "hash": "e26f1b5dcdb1b05abe9c223bcf47057622afd432",
+      "path": "mods/ForgeConfigAPIPort-v21.1.3-1.21.1-Fabric.jar"
+    },
+    {
+      "hash": "427c4f03022aaf75447cdb747f160dda5f92a2cb",
+      "path": "mods/XaerosWorldMap_1.39.2_Fabric_1.21.jar"
+    },
+    {
+      "hash": "416bca48280bbbb824e595d12fc694cc7488cfc4",
+      "path": "mods/gpumemleakfix-fabric-1.21-1.8.jar"
+    },
+    {
+      "hash": "99810a3d86fe30dc0828b7d0aaf2bee592ca6642",
+      "path": "mods/cupboard-fabric-1.21-2.9.jar"
+    },
+    {
+      "hash": "95b9071e1e6f9cdf290895292f4d3f08da2356c9",
+      "path": "mods/chat_heads-0.13.12-fabric-1.21.jar"
+    },
+    {
+      "hash": "2659dfa95eeeabb56dc8388c1bf4f492fa4f3de2",
+      "path": "mods/ModernUI-Fabric-1.21.1-3.11.1.9-universal.jar"
+    },
+    {
+      "hash": "4cc75d707ec4d93be43874a7d89e07eb18b2112f",
+      "path": "mods/malilib-fabric-1.21-0.21.6.jar"
+    },
+    {
+      "hash": "9e4347716b9a9b8eca89733e3e936bb03e300fd0",
+      "path": "mods/CreativeCore_FABRIC_v2.12.23_mc1.21.1.jar"
+    },
+    {
+      "hash": "116f548c1cd202c2f0f1c9561fe44083e7795e6b",
+      "path": "mods/Gamma-Utils-2.1.2-mc1.21.1.jar"
+    },
+    {
+      "hash": "aa1b9a49f9f190dfe4825c502b150817dd2998c3",
+      "path": "mods/placeholder-api-2.4.2+1.21.jar"
+    },
+    {
+      "hash": "66160fac4fdb9ddd854c5ed068fc329d24d09fd1",
+      "path": "mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar.disabled"
+    },
+    {
+      "hash": "efa13d262fe7c002d09d758a865404e4c29b09f0",
+      "path": "XaeroWaypoints_BACKUP240807/Multiplayer_fever2.yunmc.vip/config.txt"
+    },
+    {
+      "hash": "d5175d54e99adaa06a7fb3c1d6183d179a59feff",
+      "path": "XaeroWaypoints_BACKUP240807/Multiplayer_fever2.yunmc.vip/dim%0/mw$default_1.txt"
+    },
+    {
+      "hash": "5fcbce797569c360076f92bf8bec3c3d90248d0f",
+      "path": "xibao_plus_plus.properties"
+    }
+  ],
+  "name": "HiYuanTu\u0026HCE Modpack Project Pro",
+  "version": "3.0.0_r1"
+}
